@@ -1,7 +1,7 @@
 {
   "name": "xmlhttprequest-polyfill",
   "version": "0.1.1",
-  "description": "Fetch API-based XMLHttpRequest polyfill to be used in jsdom-sandbox within QuickJS",
+  "description": "Fetch API-based XMLHttpRequest polyfill to be used in jsdom-qjs-sandbox within QuickJS",
   "main": "dist/index.js",
   "scripts": {
     "test": "bun test",
